@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "http://blog.erodriguez.de"
+baseURL = "https://blog.erodriguez.de"
 
 theme = 'hugo-bearblog'
 
@@ -49,3 +49,9 @@ ignoreErrors = ["error-disable-taxonomy"]
   # for details. An example TOML config that uses [ISO
   # 8601](https://en.wikipedia.org/wiki/ISO_8601) format:
   # dateFormat = "2006-01-02"
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # In order to be able to render HTML within Markdown files.
