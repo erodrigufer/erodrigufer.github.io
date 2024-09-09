@@ -9,12 +9,12 @@ title = "Landing page"
 
 My name is Eduardo Rodriguez.
 
-I am a full-stack web developer currently living in Munich, Germany.
+I am a full-stack software engineer currently working at [they consulting](https://www.they-consulting.de/).
 
 I fluently speak Spanish, German, English and Catalan.
 
 ---
 
-In my day-to-day work I mostly do backend stuff in **Go**, use **Postgres**, write infrastructure as code in **Terraform** (using AWS and/or Azure) and do some frontend stuff with React.
+In my day-to-day work I mostly do backend stuff in **Go**, use **Postgres**, write infrastructure as code in **Terraform** (for AWS and/or Azure) and do some frontend stuff with React.
 
-You can also find me on [GitHub](https://github.com/erodrigufer)
+You can find me on [GitHub](https://github.com/erodrigufer) and you can contact me at `blog [at] erodriguez.de`
