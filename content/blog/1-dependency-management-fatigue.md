@@ -70,4 +70,6 @@ That is maybe the main reason why I will solely use Go+HTMX+Templ in my personal
 This is maybe just anecdotal evidence, but the Go projects I've worked on let me focus on shipping features, while not ignoring general dependency/security updates.
 The language itself has kept a remarkably stable stdlib and language specification.
 
-[Discuss in Lobsters](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i)
+[🦞 Discuss on Lobsters](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i)
+
+[🟧 Discuss on HN](https://news.ycombinator.com/item?id=42305348)
