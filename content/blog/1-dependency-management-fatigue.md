@@ -1,11 +1,8 @@
 +++
 title = "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ"
 date = "2024-12-03T12:00:01+02:00"
-draft = true
+draft = false
 
-#
-# description is optional
-#
 # description = "Dependency management fatigue in React applications"
 
 tags = ["htmx", "go", "react", "webdev"]
@@ -66,5 +63,11 @@ I actually want to work on features or start new projects.
 If you are building a product for a client, and you will charge for future maintenance work, then be my guest, use as many unstable dependencies as you like.
 It might be in your own best financial interest to do so.
 But if you are trying to build a product that requires as less upkeep as necessary after being shipped, I'll stay as far as possible from the JS ecosystem.
+
+## Go+HTMX+Templ
+
+That is maybe the main reason why I will solely use Go+HTMX+Templ in my personal projects from now on.
+This is maybe just anecdotal evidence, but generally the Go projects I've worked on let me focus on shipping features, while not ignoring general dependency/security updates.
+The language itself has kept a remarkably stable stdlib and language specification.
 
 <!-- TODO: Add discuss on HackerNews -->
