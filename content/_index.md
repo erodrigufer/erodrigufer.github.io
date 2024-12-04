@@ -17,6 +17,6 @@ I fluently speak Spanish, German, English and Catalan.
 
 In my day-to-day work I mostly do backend stuff in **Go**, use **Postgres**, write infrastructure as code in **Terraform** (for AWS and/or Azure) and do some frontend stuff with React in TS.
 
-You can find me on [GitHub](https://github.com/erodrigufer) and 🦞[Lobsters](https://lobste.rs/~eduard).
+You can find me on [GitHub](https://github.com/erodrigufer), 🟧 [the orange site](https://news.ycombinator.com/user?id=RapperWhoMadeIt) and 🦞[Lobsters](https://lobste.rs/~eduard).
 
 You can contact me at `blog<at>erodriguez.de`
