@@ -13,9 +13,11 @@ I am a full-stack software engineer currently working at [they consulting](https
 
 I fluently speak Spanish, German, English and Catalan.
 
+(I am also just starting to learn Japanese: 今日はエドアルドです。)
+
 ---
 
-In my day-to-day work I mostly do backend stuff in **Go**, use **Postgres**, write infrastructure as code in **Terraform** (for AWS and/or Azure) and do some frontend stuff with React in TS.
+In my day-to-day work I mostly do backend stuff in **Go** (五), use **Postgres**, write infrastructure as code in **Terraform** (for AWS and/or Azure) and do some frontend stuff with React in TS.
 
 You can find me on [GitHub](https://github.com/erodrigufer), 🟧 [the orange site](https://news.ycombinator.com/user?id=RapperWhoMadeIt) and 🦞[Lobsters](https://lobste.rs/~eduard).
 
