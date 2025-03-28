@@ -13,7 +13,7 @@ I am a full-stack software engineer currently working at [they consulting](https
 
 I fluently speak Spanish, German, English and Catalan.
 
-(I am also just starting to learn Japanese: 今日はエドアルドです。)
+(I am also just starting to learn Japanese: こんにちわエドアルドです。)
 
 ---
 
