@@ -20,6 +20,6 @@ In my day-to-day work I mostly do backend stuff in **Go** (五), use **Postgres*
 
 In my own projects I usually work with **Go**, **Postgres** or **Sqlite**, **Templ**, **HTMX** and **FreeBSD**.
 
-You can find me on [GitHub](https://github.com/erodrigufer), 🟧 [the orange site](https://news.ycombinator.com/user?id=RapperWhoMadeIt) and 🦞[Lobsters](https://lobste.rs/~eduard).
+You can find me on [GitHub](https://github.com/erodrigufer) and 🦞 [Lobsters](https://lobste.rs/~eduard).
 
 You can contact me at `blog<at>erodriguez.de`
